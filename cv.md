@@ -19,6 +19,7 @@ I am 31 years old, I work as a Lead Design Engineer. My job is to develop design
 ### __Coding examples__
 
 Here is a short code example:
+
 ```javascript
     function explode(s) {
 		let strr = '';
@@ -40,4 +41,4 @@ I graduated from BNTU in 2014, Power Supply Department.
 ---
 
 ### __English Level__
-My English level is Intermediate(B1). 
+My English level is Intermediate(B1). Now I am studying with a tutor to improve my knowledge.
