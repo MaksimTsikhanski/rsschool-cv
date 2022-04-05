@@ -8,7 +8,7 @@ I am 31 years old, I work as a Lead Design Engineer. My job is to develop design
 
 ### __Skills__
 
-+ [x] С++ (basic knowledge) 
++ [x] C++ (basic knowledge) 
 + [x] java(basic knowledge)
 + [x] html (basic knowledge)
 + [x] javascript 
