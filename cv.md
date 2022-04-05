@@ -35,6 +35,11 @@ Here is a short code example:
 ---
 
 
+### __Work experience__
+I have no experience in IT.
+
+---
+
 ### __Education__
 I graduated from BNTU in 2014, Power Supply Department. 
 
